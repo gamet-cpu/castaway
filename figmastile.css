@@ -182,7 +182,7 @@
 
  .box1 {
      width: 1300;
-     height: 545;
+     height: 512;
      top: -0.44px;
      border-radius: 32px;
      display: flex;
@@ -190,9 +190,27 @@
      margin-bottom: 100px;
      background-color: rgba(0, 0, 0, 1);
  }
-
+.box2{
+    width: 1300;
+     height: 545;
+     top: -0.44px;
+     border-radius: 32px;
+     display: flex;
+     gap: 69px;
+     margin-bottom: 100px;
+     background-color: rgba(0, 0, 0, 1);
+}
 .imgs{
+    width: 389;
+    height: 465;
+    top: -0.44px;
     margin-left: 40px;
+}
+.imgs1{
+    width: 389;
+    height: 465;
+    margin-left: 40px;
+
 }
 
  .text {
@@ -203,6 +221,7 @@
      height: 465px;
 
  }
+
 
  .gears {
      top: 50px;
@@ -250,7 +269,7 @@
      line-height: 33px;
      letter-spacing: 0%;
      color: rgba(255, 255, 255, 0.7);
-     margin-top: 28px;
+    margin-top: 10px;
 
  }
 
